@@ -2,6 +2,12 @@
 
 Projeto completo e funcionando.
 
+### Imagens Docker
+
+- [app](https://hub.docker.com/repository/docker/kallebdev/app1-app)
+- [nginx](https://hub.docker.com/repository/docker/kallebdev/app1-nginx)
+- [mysql](https://hub.docker.com/repository/docker/kallebdev/app1-mysql)
+
 ### Tecnologias
 
 - [Laravel](https://laravel.com/)
